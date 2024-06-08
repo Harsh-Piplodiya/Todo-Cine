@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Todo-Cine which means "Everything Cinema" in spanish is a Movie/TV Show browsing Web-Application made by <u>Mast. Harsh Piplodiya</u> for people who are as passionate about motion-picture as myself.
+                    Todo-Cine i.e. "Everything Cinema" in spanish is a Movie/TV Show browsing Web-Application made by <u>Mast. Harsh Piplodiya</u> for people who are as passionate about motion-picture as myself.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
