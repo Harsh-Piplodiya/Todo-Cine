@@ -1,6 +1,6 @@
 import React from "react";
 import {
-    FaFacebookF,
+    FaGithub,
     FaInstagram,
     FaTwitter,
     FaLinkedin,
@@ -22,20 +22,20 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Todo-Cine i.e. "Everything Cinema" in spanish is a Movie/TV Show browsing Web-Application made by <u>Mast. Harsh Piplodiya</u> for people who are as passionate about motion-picture as myself.
+                    "Everything Cinema" or Todo-Cine in spanish is a robust single-page react application catering to cinephiles like me and indecisive movie watchers.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
-                        <FaFacebookF />
+                        <a href="https://github.com/Harsh-Piplodiya" target="_blank" ><FaGithub /></a>
                     </span>
                     <span className="icon">
-                        <FaInstagram />
+                        <a href="https://www.linkedin.com/in/harsh-piplodiya-24266a234/" target="_blank" ><FaLinkedin /></a>
                     </span>
                     <span className="icon">
-                        <FaTwitter />
+                        <a href="https://twitter.com/harshp2910" target="_blank" ><FaTwitter /></a>
                     </span>
                     <span className="icon">
-                        <FaLinkedin />
+                        <a href="https://www.instagram.com/harshp2910/" target="_blank" ><FaInstagram /></a>
                     </span>
                 </div>
             </ContentWrapper>
